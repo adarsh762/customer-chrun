@@ -257,4 +257,3 @@ Customer Recommendation
 """)
 
 st.markdown("---")
-)

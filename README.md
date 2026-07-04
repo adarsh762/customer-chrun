@@ -1,8 +1,6 @@
 # 🏦 Bank Customer Churn Prediction
 
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-Streamlit-red?logo=streamlit)](https://churn-predictor-99.streamlit.app/)
-[![Python](https://img.shields.io/badge/Python-3.11-blue?logo=python)](https://python.org)
-[![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-ML-orange?logo=scikitlearn)](https://scikit-learn.org)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Streamlit-red?logo=streamlit)](https://customer-chrun-jp4whbzddedsrta6gq9hus.streamlit.app/)
 
 Predict customer churn using Machine Learning and explore the results through an interactive Streamlit dashboard.
 
@@ -181,6 +179,6 @@ Bank-Customer-Churn-Prediction/
 
 # 👨‍💻 Author
 
-**Vishesh**
+**Adarsh Dev**
 
 Machine Learning | Python | Streamlit

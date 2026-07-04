@@ -257,11 +257,4 @@ Customer Recommendation
 """)
 
 st.markdown("---")
-
-st.caption(
-"""
-Built by Vishesh
-
-Machine Learning | Streamlit | Scikit-Learn | Random Forest
-"""
 )
